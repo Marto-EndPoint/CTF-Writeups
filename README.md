@@ -9,7 +9,7 @@ Cada writeup está organizado por plataforma y, dentro de ella, por laboratorio 
 ### Plataformas
 
 - **TryHackMe**: Contiene carpetas con el nombre del laboratorio. En cada una incluyo un `README.md` con una descripción general, las herramientas utilizadas y un PDF con writeups que explican paso a paso la resolución.
-- **PortSwigger Web Security Academy**: Agrupados por tipo de vulnerabilidad (por ejemplo, `SQL Injection`, `Cross-Site Scripting`, etc.), con writeups que explican paso a paso la resolución.
+- **PortSwigger Web Security Academy**: Agrupados por tipo de vulnerabilidad (por ejemplo, `SQL Injection`, `Cross-Site Scripting`, etc.), En cada una incluyo un `README.md` con una descripción general, las herramientas utilizadas y un PDF con writeups que explican paso a paso la resolución.
 
 ### Categorías cubiertas
 
