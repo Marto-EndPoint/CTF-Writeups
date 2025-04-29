@@ -4,16 +4,21 @@ Este repositorio contiene una colección de writeups desarrollados por mí a par
 
 ## Descripción
 
-Cada writeup está organizado por evento o plataforma, y clasificado según la categoría del reto, lo que facilita la navegación y la consulta según el tipo de desafío que quieras explorar.
+Cada writeup está organizado por plataforma y, dentro de ella, por laboratorio o tipo de vulnerabilidad, lo que facilita la navegación y consulta según el tipo de desafío que desees explorar.
 
-- **Web**: Análisis y explotación de vulnerabilidades en aplicaciones web como XSS, SQLi, LFI, etc.
-- **PWN**: Explotación de binarios, desbordamientos de búfer y técnicas de memoria.
-- **Reverse**: Ingeniería inversa sobre ejecutables, decodificación y análisis de lógica.
-- **Crypto**: Resolución de retos relacionados con criptografía clásica y moderna.
-- **Forensics**: Análisis de tráfico de red, metadatos, memoria y archivos sospechosos.
-- **Misc**: Retos varios que no encajan en una categoría específica.
+### Plataformas
 
-Los writeups incluyen explicaciones paso a paso, comandos utilizados, capturas (cuando aplica) y reflexiones personales sobre el aprendizaje obtenido en cada reto.
+- **TryHackMe**: Contiene carpetas con el nombre del laboratorio. En cada una incluyo un `README.md` con una descripción general, las herramientas utilizadas y un PDF con el writeup detallado de cada laboratorio práctico.
+- **PortSwigger Web Security Academy**: Agrupados por tipo de vulnerabilidad (por ejemplo, `SQL Injection`, `Cross-Site Scripting`, etc.), con writeups que explican paso a paso la resolución de cada laboratorio.
+
+### Categorías cubiertas
+
+- **Web**: Análisis y explotación de vulnerabilidades como XSS, SQLi, LFI, CSRF, etc.
+- **PWN**: Explotación de binarios, desbordamientos de búfer y manipulación de memoria.
+- **Reverse**: Ingeniería inversa, análisis de binarios y crackmes.
+- **Crypto**: Criptografía clásica, moderna y ataques conocidos.
+- **Forensics**: Análisis de tráfico de red, archivos, memoria y esteganografía.
+- **Misc**: Retos que no encajan en categorías tradicionales, pero que requieren pensamiento lateral o la combinación de diversas técnicas.
 
 ---
 
