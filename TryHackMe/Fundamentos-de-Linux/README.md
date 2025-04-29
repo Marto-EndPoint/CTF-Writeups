@@ -1,4 +1,4 @@
-# Resolución: Linux Fundamentals Part 1 - TryHackMe
+# 🧠 Resolución: Linux Fundamentals Part 1 - TryHackMe
 
 Este repositorio contiene la resolución completa del room [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) de la plataforma TryHackMe.
 
