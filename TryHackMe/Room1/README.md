@@ -1,1 +1,0 @@
-# Room1 - TryHackMe
