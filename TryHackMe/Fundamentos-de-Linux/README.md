@@ -21,3 +21,15 @@ Este room está diseñado para enseñar los fundamentos del sistema operativo Li
 - Terminal Bash
 - TryHackMe VPN
 - Máquina virtual proporcionada por el room
+  
+---
+
+## 📂 Estructura del Writeup
+
+El writeup estará organizado por tareas, incluyendo explicaciones, comandos utilizados y capturas de pantalla (si aplica).
+
+---
+
+## ✍️ Autor
+
+[@Marto-EndPoint](https://github.com/Marto-EndPoint)
