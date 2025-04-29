@@ -1,6 +1,6 @@
 # 🧠 Resolución: Linux Fundamentals Part 2 - TryHackMe
 
-Este repositorio contiene la resolución completa del room **Linux Fundamentals Part 2** de la plataforma [TryHackMe](https://tryhackme.com/room/linuxfundamentalspart2).
+Este repositorio contiene la resolución completa del room [**Linux Fundamentals Part 2**](https://tryhackme.com/room/linuxfundamentalspart2) de la plataforma TryHackMe.
 
 ---
 
