@@ -6,7 +6,7 @@ Este repositorio contiene la resolución completa del room [**Linux Fundamentals
 
 ## 📘 Descripción
 
-Este room es la continuación del módulo anterior y profundiza en conceptos clave del sistema operativo Linux, fundamentales tanto para principiantes como para usuarios intermedios. Entre los temas tratados se encuentran:
+Este room es la continuación del módulo anterior y profundiza en conceptos clave del sistema operativo Linux, fundamentales tanto para principiantes como para usuarios intermedios. Entre los temas tratados se encuentran: 
 
 - Gestión de procesos
 - Redirecciones avanzadas y pipes
