@@ -9,7 +9,8 @@ Cada writeup está organizado por plataforma y, dentro de ella, por laboratorio 
 ### Plataformas
 
 - **TryHackMe**: Contiene carpetas con el nombre del laboratorio. En cada una incluyo un `README.md` con una descripción general, las herramientas utilizadas y un PDF con writeups que explican paso a paso la resolución.
-- **PortSwigger Web Security Academy**: Agrupados por tipo de vulnerabilidad (por ejemplo, `SQL Injection`, `Cross-Site Scripting`, etc.), En cada una incluyo un `README.md` con una descripción general, las herramientas utilizadas y un PDF con writeups que explican paso a paso la resolución.
+- **PortSwigger Web Security Academy**: Agrupados por tipo de vulnerabilidad (por ejemplo, `SQL Injection`, `Cross-Site Scripting`, etc.). En cada una incluyo un `README.md` con una descripción general, las herramientas utilizadas y un PDF con writeups que explican paso a paso la resolución.
+- **Hacker101 CTF**: Desafíos organizados por niveles, cada uno simulando aplicaciones web reales con múltiples vulnerabilidades. En cada carpeta se incluye un `README.md` con el enfoque seguido, herramientas empleadas y un PDF que documenta paso a paso la resolución de cada flag obtenida.
 
 ### Categorías cubiertas
 
@@ -23,4 +24,3 @@ Cada writeup está organizado por plataforma y, dentro de ella, por laboratorio 
 ---
 
 > Este repositorio está en constante crecimiento y representa mi camino de aprendizaje en el mundo del hacking ético y la ciberseguridad.
-
